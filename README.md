@@ -88,9 +88,8 @@ Permite responder preguntas como:
 
 - Ajustar el rendimiento por volatilidad post-evento
 - Comparar horizontes temporales (3d, 5d, 20d)
+- Filtrar adquisiciones hostiles vs amistosas
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
 Incorporar país de origen como tercera dimensión
-
-Filtrar adquisiciones hostiles vs amistosas
