@@ -94,3 +94,53 @@ Permite responder preguntas como:
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
 
+***
+📊 **No todos los eventos de M&A impactan igual… depende de la tendencia del sector**
+
+Cuando se anuncia una adquisición, solemos mirar el evento en sí.
+Pero hay algo más profundo: **el contexto en el que ocurre**.
+
+👉 Analicé cómo influye la **tendencia sectorial** en el rendimiento posterior a eventos de M&A.
+
+💡 **Insight clave:**
+Las adquisiciones en sectores con **“Cruce Dorado” (SMA 50 > SMA 200)** tienden a tener un rendimiento post-evento más positivo que aquellas en sectores débiles.
+
+---
+
+📈 **¿Qué medí?**
+
+* Tendencia sectorial:
+
+  * Alcista → promedio SMA 50 > SMA 200
+  * Bajista/Lateral → caso contrario
+* Eventos de adquisición
+* Rendimiento a 10 días post-evento
+
+---
+
+🧠 **¿Cómo interpretarlo?**
+
+* M&A en sectores alcistas → viento de cola
+* M&A en sectores bajistas → mayor fricción
+* El mismo evento… distinto resultado según el contexto
+
+---
+
+⚡ **¿Por qué importa?**
+
+Porque revela algo clave:
+
+👉 El *contexto* puede ser tan importante como el *evento*.
+
+Esto permite:
+
+* Filtrar mejores oportunidades en estrategias *event-driven*
+* Evitar operar contra la tendencia dominante
+* Aumentar probabilidad de éxito
+
+---
+
+📌 Pregunta para la comunidad:
+¿Analizan los eventos aislados… o siempre los contextualizan dentro de la tendencia del mercado?
+
+#QuantFinance #Trading #DataScience #StockMarket #MergersAndAcquisitions #TrendFollowing #Alpha #Analytics
